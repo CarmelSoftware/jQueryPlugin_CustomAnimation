@@ -10,15 +10,37 @@ The present rep contains the code for the following Tutorials:
 http://themvcclub.blogspot.com/2015/05/custom-jquery-plugin-to-display-form-twitter-bootstrap.html
 
 <a href="http://themvcclub.blogspot.com/2015/05/custom-jquery-plugin-to-display-form-twitter-bootstrap.html">
-<img alt="Custom jQuery Plugin to display a Form using Bootstrap        " border="0" src="http://1.bp.blogspot.com/-9Tv3pCHfsvs/VUiMyupkV-I/AAAAAAAAKeA/Do_493NFiTM/s640/15.png" height="540" width="558" />
 
-<img alt="Custom jQuery Plugin to display a Form using Twitter Bootstrap        " border="0" src="http://2.bp.blogspot.com/-GBkX6Y7fq_U/VUiMyggWE8I/AAAAAAAAKdo/3TeEzuuvamA/s640/14.png" height="584" width="560" />
+
+<img alt="jQuery Plugin for Custom Animations" border="0" height="486" src="http://3.bp.blogspot.com/-HooNVkg07FU/VnbHAGLu9NI/AAAAAAAAL_o/pTJY3xfiaak/s640/1.png" width="570" />
+
+
+<img alt="jQuery Plugin for Custom Animations" border="0" height="512" src="http://2.bp.blogspot.com/-SYZIPkxnCNY/VnbHAJ2s3II/AAAAAAAAL_w/1o7qfs7kVZE/s640/2.png" width="570" />
+
+
+<img alt="jQuery Plugin for Custom Animations" border="0" height="470" src="http://2.bp.blogspot.com/-aTzPeC4cuAM/VnbHAKgKdnI/AAAAAAAAL_s/m90tQsYmKfQ/s640/3.png" width="570" />
+
+<h3 style="font-size: 16px;">
+Usage:</h3>
+<div>
+This jQuery Plugin for Custom Animations can be used this way:</div>
+<div>
+<br />
+1) Custom animation creation , using the plugin :<br />
+
+
+<img alt="jQuery Plugin for Custom Animations" border="0" height="46" src="http://3.bp.blogspot.com/-WbvcYjulplE/VnbHAvbwxdI/AAAAAAAAL_8/XxSfqoS73HM/s640/4.png" width="570" />
+
+<br />
+2) using the custom animation in code:<br />
+
+<img alt="jQuery Plugin for Custom Animations" border="0" height="213" src="http://1.bp.blogspot.com/-cX46PDfgNLo/VnbHAkIGiUI/AAAAAAAAL_0/BtMLIbs50qs/s400/5.png" width="400" />
+
+
+
+
+ 
 </a>
-
-This jQuery Plugin will be used at the HTML5 file this way:
-
-<img alt="Custom jQuery Plugin to display a Form using Twitter Bootstrap       1 " border="0" src="http://4.bp.blogspot.com/-Ivul7_Zl_Lo/VUiMzgko_OI/AAAAAAAAKd0/xJLfexKM9Vw/s400/17.png" height="186" width="400" />
-
 
 <div style="direction: rtl;">
 פיתוח: כרמל שוורצמן</div>
