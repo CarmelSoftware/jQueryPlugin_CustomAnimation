@@ -1,10 +1,8 @@
 # jQuery Plugin Custom Animation
 A jQuery Plugin to create your own Custom Animations
-#### by Carmel Shvartzman :
-#### <a href="http://themvcclub.blogspot.com">The MVC Club</a>
-#### <a href="http://thehtml5club.blogspot.co.il/">The HTML5 Club</a>
-#### <a href="http://carmelsoft.blogspot.co.il/">CarmelSoft Mobile Plugins</a>
-#### <a href="http://angularjsclub.blogspot.co.il/">The AngularJS Club</a>
+#### by Carmel Shvartzman : <a href="http://themvcclub.blogspot.com">The MVC Club</a>
+- <a href="http://thehtml5club.blogspot.co.il/">The HTML5 Club</a> - <a href="http://carmelsoft.blogspot.co.il/">CarmelSoft Mobile Plugins</a> - <a href="http://angularjsclub.blogspot.co.il/">The AngularJS Club</a> 
+
 The present rep contains the code for the following Tutorials:
 
 http://carmelsoft.blogspot.com/2015/12/jquery-plugin-for-custom-animations.html
