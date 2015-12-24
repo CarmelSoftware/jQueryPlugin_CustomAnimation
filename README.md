@@ -12,7 +12,9 @@ http://carmelsoft.blogspot.com/2015/12/jquery-plugin-for-custom-animations.html
 <a href="http://carmelsoft.blogspot.com/2015/12/jquery-plugin-for-custom-animations.html">
 
 
+
 <img alt="jQuery Plugin for Custom Animations" border="0" height="486" src="http://3.bp.blogspot.com/-HooNVkg07FU/VnbHAGLu9NI/AAAAAAAAL_o/pTJY3xfiaak/s640/1.png" width="570" />
+
 
 
 <img alt="jQuery Plugin for Custom Animations" border="0" height="512" src="http://2.bp.blogspot.com/-SYZIPkxnCNY/VnbHAJ2s3II/AAAAAAAAL_w/1o7qfs7kVZE/s640/2.png" width="570" />
