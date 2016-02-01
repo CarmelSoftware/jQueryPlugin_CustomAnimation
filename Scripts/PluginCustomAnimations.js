@@ -9,3 +9,7 @@
 /// customAnimation = the name of the custom animation 
 /// params = the animation to be done , for example :  { 'opacity': 'toggle', 'height': 'toggle' }
 ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
