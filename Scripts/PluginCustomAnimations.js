@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
-/// jQuery Plugin to create custom animations
+/// jQuery Plugin to create your own custom animations
 ///     - support for a callback function     
 ///     - support for speed settings
 /// 
