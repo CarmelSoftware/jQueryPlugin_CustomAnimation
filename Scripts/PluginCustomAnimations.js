@@ -1,4 +1,3 @@
-
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 /// jQuery Plugin to create custom animations
 ///     - support for a callback function     
@@ -9,6 +8,7 @@
 /// customAnimation = the name of the custom animation 
 /// params = the animation to be done , for example :  { 'opacity': 'toggle', 'height': 'toggle' }
 ////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 _.fn.createCustomAnimation = function (customAnimation, params)
 {
@@ -23,6 +23,7 @@ _.fn.createCustomAnimation = function (customAnimation, params)
             _.isFunction(callback) && _.proxy(callback, this)
             );
     };
+
 
     return _this;
 };
